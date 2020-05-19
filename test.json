@@ -1,0 +1,73 @@
+[
+  {
+    "countryName": "Belarus",
+    "capital": {
+      "name": "Minsk",
+      "population": 1992685
+    },
+    "regions": [
+      {
+        "regionalName": "Minskaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Minsk",
+          "population": 1992685
+        },
+        "area": 39.854,
+        "districts": []
+      },
+      {
+        "regionalName": "Brestskaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Brest",
+          "population": 343985
+        },
+        "area": 32.787,
+        "districts": []
+      },
+      {
+        "regionalName": "Vitebskaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Vitebsk",
+          "population": 362466
+        },
+        "area": 40.051,
+        "districts": []
+      },
+      {
+        "regionalName": "Gomel\u0027skaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Gomel",
+          "population": 508839
+        },
+        "area": 40.372,
+        "districts": []
+      },
+      {
+        "regionalName": "Grodnenskaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Grodno",
+          "population": 368710
+        },
+        "area": 25.127,
+        "districts": []
+      },
+      {
+        "regionalName": "Mogilevskaya oblast\u0027",
+        "regionalCenter": {
+          "name": "Mogilev",
+          "population": 380440
+        },
+        "area": 29.068,
+        "districts": []
+      }
+    ]
+  },
+  {
+    "countryName": "Russia",
+    "capital": {
+      "name": "Moscow",
+      "population": 1992685
+    },
+    "regions": []
+  }
+]
